@@ -6,7 +6,8 @@ categories: blog
 
 **Swatantra 2014**
 
-<img src="http://icfoss.in/images/swatantra.png"/>
+![alt tag](http://icfoss.in/images/swatantra.png)
+
 
 
 Theme - Free Software: Opportunities for India
@@ -18,4 +19,4 @@ The theme of the conference is “Free Software: Opportunities for India”, ref
 International dignitaries participating at the Conference include Dr. Richard Stallman, Dr. Eben Moglen and Ms. Nina Paley. Several luminaries from the FOSS world within the country are also expected to take part.
 About 150-200 Free Software enthusiasts, including practitioners, developers, researchers, academics, students, as well as representatives from civil society institutions, industry and the Government are expected to participate in the three-day conference.
 
-<img src="/img/fossmeet.jpg"/>
+![alt tag](/img/fossmeet.jpg)

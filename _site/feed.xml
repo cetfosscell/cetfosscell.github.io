@@ -5,15 +5,15 @@
     <description>Welcome to Free and Open Source Club at College of Engineering Trivandrum</description>
     <link>http://cetfosscell.github.io/</link>
     <atom:link href="http://cetfosscell.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Nov 2014 19:56:31 +0530</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 19:56:31 +0530</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 19:58:53 +0530</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 19:58:53 +0530</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
         <title>Swatantra 2014</title>
         <description>&lt;p&gt;&lt;strong&gt;Swatantra 2014&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://icfoss.in/images/swatantra.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://icfoss.in/images/swatantra.png&quot; alt=&quot;alt tag&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Theme - Free Software: Opportunities for India&lt;/p&gt;
 
@@ -24,7 +24,7 @@ The theme of the conference is “Free Software: Opportunities for India”, ref
 International dignitaries participating at the Conference include Dr. Richard Stallman, Dr. Eben Moglen and Ms. Nina Paley. Several luminaries from the FOSS world within the country are also expected to take part.
 About 150-200 Free Software enthusiasts, including practitioners, developers, researchers, academics, students, as well as representatives from civil society institutions, industry and the Government are expected to participate in the three-day conference.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/fossmeet.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/fossmeet.jpg&quot; alt=&quot;alt tag&quot;&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Dec 2014 04:07:00 +0530</pubDate>
         <link>http://cetfosscell.github.io/icfoss-5th-conf/</link>
