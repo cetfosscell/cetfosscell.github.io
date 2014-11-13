@@ -5,44 +5,45 @@
     <description>Welcome to Free and Open Source Club at College of Engineering Trivandrum</description>
     <link>http://cetfosscell.github.io/</link>
     <atom:link href="http://cetfosscell.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Nov 2014 19:47:07 +0530</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 19:47:07 +0530</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 19:56:31 +0530</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 19:56:31 +0530</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
+        <title>Swatantra 2014</title>
+        <description>&lt;p&gt;&lt;strong&gt;Swatantra 2014&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://icfoss.in/images/swatantra.png&quot;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Theme - Free Software: Opportunities for India&lt;/p&gt;
+
+&lt;p&gt;About Swatantra 2014
+After India&amp;#39;s first-ever Free Software event, “Freedom First!” that was convened in Trivandrum in 2001, Kerala had organized international Free Software conferences in 2005, 2008, and 2011. These conferences were an occasion to highlight Kerala&amp;#39;s achievements in the domain of Free Software, as well as to bring together the community to discuss priorities and action items.
+ICFOSS is proud to present the fifth international Free Software conference of Kerala, Swatantra 2014, scheduled during 18-20 December 2014 at Thiruvananthapuram.
+The theme of the conference is “Free Software: Opportunities for India”, reflecting the coming-of-age of FOSS in serving different sectors of the economy—be it social sectors such as Health, Education, Citizen Services or eGovernance in general or in the Industry, Academia or personal computing, the Arts &amp;amp; Culture domains. The Conference will also address emerging global challenges and threats to freedom as well as aspects of law relating to software and online freedoms.
+International dignitaries participating at the Conference include Dr. Richard Stallman, Dr. Eben Moglen and Ms. Nina Paley. Several luminaries from the FOSS world within the country are also expected to take part.
+About 150-200 Free Software enthusiasts, including practitioners, developers, researchers, academics, students, as well as representatives from civil society institutions, industry and the Government are expected to participate in the three-day conference.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/fossmeet.jpg&quot;/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Dec 2014 04:07:00 +0530</pubDate>
+        <link>http://cetfosscell.github.io/icfoss-5th-conf/</link>
+        <guid isPermaLink="true">http://cetfosscell.github.io//icfoss-5th-conf/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
         <title>Welcome to CET FOSS CELL</title>
-        <description>&lt;p&gt;&lt;strong&gt;Basic&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Welcome to FOSS CELL CET&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Neque porro &lt;em&gt;quisquam&lt;/em&gt; est, qui &lt;strong&gt;dolorem&lt;/strong&gt; ipsum, quia &lt;strong&gt;&lt;em&gt;dolor&lt;/em&gt;&lt;/strong&gt; sit, amet, &lt;a href=&quot;http://cjdns.info/&quot;&gt;consectetur&lt;/a&gt;, adipisci velit.&lt;/p&gt;
+&lt;p&gt;Welcome to Free and Open Source CELL Collge of Engineering Trivandrum.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;lorem&lt;/li&gt;
-&lt;li&gt;ipsum&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;dolor&lt;/li&gt;
-&lt;li&gt;sit&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Blockquote&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Benjamin Franklin&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Code&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;k&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;asyncEnabled&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Dict&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;vAdmin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;txid&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Allocator&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;requestAlloc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Admin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;admin&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Identity_check&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Admin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;vAdmin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;kt&quot;&gt;int64_t&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;enabled&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;admin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;asyncEnabled&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;Dict&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Dict_CONST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String_CONST&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;asyncEnabled&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Int_OBJ&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;enabled&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;Admin_sendMessage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;txid&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;admin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-        <pubDate>Wed, 10 Sep 2014 04:07:00 +0530</pubDate>
+&lt;p&gt;Watch this space for more updates.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Nov 2014 04:07:00 +0530</pubDate>
         <link>http://cetfosscell.github.io/welcome-to-cetfosscell/</link>
         <guid isPermaLink="true">http://cetfosscell.github.io//welcome-to-cetfosscell/</guid>
         
