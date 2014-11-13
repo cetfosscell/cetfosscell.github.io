@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    
+    <meta name="description" content="Welcome to Free and Open Source Club at College of Engineering Trivandrum">
+    <title> Welcome to CET FOSS CELL › FOSS Cell CET</title>
+    <link rel="canonical" href="http://cetfosscell.github.io/welcome-to-cetfosscell/">
+    <link rel="stylesheet" type="text/css" href="/basic.css">
+    <link rel="stylesheet" type="text/css" href="/highlight.css">
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,200italic,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Gentium+Basic:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link rel="alternate" type="application/rss+xml" title="FOSS Cell CET &raquo; Feed" href="/feed.xml">
+    
+    <script data-isso="http://comments.mysite.org" src="//comments.mysite.org/js/embed.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">FOSS Cell CET</a></h1>
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li><li><a href="/archiv.html">Archive</a></li>
+        </ul>
+      </nav>
+    </header>
+      <article>
+        <header>
+          <h1><a href="/welcome-to-cetfosscell/">Welcome to CET FOSS CELL</a></h1>
+          <p><time>Sep 10, 2014</time> • blog</p>
+        </header>
+        <div>
+<p><strong>Basic</strong></p>
+
+<p>Neque porro <em>quisquam</em> est, qui <strong>dolorem</strong> ipsum, quia <strong><em>dolor</em></strong> sit, amet, <a href="http://cjdns.info/">consectetur</a>, adipisci velit.</p>
+
+<ul>
+<li>lorem</li>
+<li>ipsum</li>
+</ul>
+
+<ol>
+<li>dolor</li>
+<li>sit</li>
+</ol>
+
+<p><strong>Blockquote</strong></p>
+
+<blockquote>
+<p>They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.</p>
+
+<p><em>Benjamin Franklin</em></p>
+</blockquote>
+
+<p><strong>Code</strong></p>
+<div class="highlight"><pre><code class="language-c" data-lang="c"><span class="k">static</span> <span class="kt">void</span> <span class="nf">asyncEnabled</span><span class="p">(</span><span class="n">Dict</span><span class="o">*</span> <span class="n">args</span><span class="p">,</span> <span class="kt">void</span><span class="o">*</span> <span class="n">vAdmin</span><span class="p">,</span> <span class="n">String</span><span class="o">*</span> <span class="n">txid</span><span class="p">,</span> <span class="k">struct</span> <span class="n">Allocator</span><span class="o">*</span> <span class="n">requestAlloc</span><span class="p">)</span>
+<span class="p">{</span>
+    <span class="k">struct</span> <span class="n">Admin</span><span class="o">*</span> <span class="n">admin</span> <span class="o">=</span> <span class="n">Identity_check</span><span class="p">((</span><span class="k">struct</span> <span class="n">Admin</span><span class="o">*</span><span class="p">)</span> <span class="n">vAdmin</span><span class="p">);</span>
+    <span class="kt">int64_t</span> <span class="n">enabled</span> <span class="o">=</span> <span class="n">admin</span><span class="o">-&gt;</span><span class="n">asyncEnabled</span><span class="p">;</span>
+    <span class="n">Dict</span> <span class="n">d</span> <span class="o">=</span> <span class="n">Dict_CONST</span><span class="p">(</span><span class="n">String_CONST</span><span class="p">(</span><span class="s">&quot;asyncEnabled&quot;</span><span class="p">),</span> <span class="n">Int_OBJ</span><span class="p">(</span><span class="n">enabled</span><span class="p">),</span> <span class="nb">NULL</span><span class="p">);</span>
+    <span class="n">Admin_sendMessage</span><span class="p">(</span><span class="o">&amp;</span><span class="n">d</span><span class="p">,</span> <span class="n">txid</span><span class="p">,</span> <span class="n">admin</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+        </div>
+        
+        <section id="isso-thread"></section>
+        
+        
+      </article>
+
+    <footer>
+      <span>Copyright &copy; CET</span><span><a href="http://cetfosscell.github.io">FOSS Cell CET</a></span><span>2014</span>
+    </footer>
+  </body>
+</html>

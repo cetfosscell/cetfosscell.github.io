@@ -1,0 +1,21 @@
+# Site settings
+title: FOSS Cell CET
+email: fosscell@cet.ac.in
+description: "Welcome to Free and Open Source Club at College of Engineering Trivandrum"
+baseurl: "/"
+url: "http://cetfosscell.github.io"
+twitter_username: user
+github_username: user
+disqus_username: false
+isso_domain: comments.mysite.org
+
+# Build settings
+markdown: redcarpet
+permalink: /:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
